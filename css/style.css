@@ -1,0 +1,26 @@
+div .test {background-color: blue;}
+ 
+
+
+.test2 {
+	width: 400px; 
+	height: 500px;
+	
+	background-image: url('../img/BA_new_icon.png');
+}
+
+.testp {color: green; text-align: center; text-decoration: overline; text-decoration: underline; text-transform: capitalize; }\
+
+
+a {
+	color: red;
+}
+a:visited {
+	color: blue;
+}
+a:hover {
+	color: green;
+}
+a:active {
+	color: pink;
+}
